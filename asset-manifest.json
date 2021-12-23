@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://iceymann18777.github.io/csb-bctnq/static/css/main.4c486b0c.chunk.css",
+    "main.js": "https://iceymann18777.github.io/csb-bctnq/static/js/main.bd962d1c.chunk.js",
+    "main.js.map": "https://iceymann18777.github.io/csb-bctnq/static/js/main.bd962d1c.chunk.js.map",
+    "runtime-main.js": "https://iceymann18777.github.io/csb-bctnq/static/js/runtime-main.facbe46c.js",
+    "runtime-main.js.map": "https://iceymann18777.github.io/csb-bctnq/static/js/runtime-main.facbe46c.js.map",
+    "static/css/2.a2825889.chunk.css": "https://iceymann18777.github.io/csb-bctnq/static/css/2.a2825889.chunk.css",
+    "static/js/2.ac5e5b09.chunk.js": "https://iceymann18777.github.io/csb-bctnq/static/js/2.ac5e5b09.chunk.js",
+    "static/js/2.ac5e5b09.chunk.js.map": "https://iceymann18777.github.io/csb-bctnq/static/js/2.ac5e5b09.chunk.js.map",
+    "static/js/3.87454fe2.chunk.js": "https://iceymann18777.github.io/csb-bctnq/static/js/3.87454fe2.chunk.js",
+    "static/js/3.87454fe2.chunk.js.map": "https://iceymann18777.github.io/csb-bctnq/static/js/3.87454fe2.chunk.js.map",
+    "index.html": "https://iceymann18777.github.io/csb-bctnq/index.html",
+    "static/css/2.a2825889.chunk.css.map": "https://iceymann18777.github.io/csb-bctnq/static/css/2.a2825889.chunk.css.map",
+    "static/css/main.4c486b0c.chunk.css.map": "https://iceymann18777.github.io/csb-bctnq/static/css/main.4c486b0c.chunk.css.map",
+    "static/js/2.ac5e5b09.chunk.js.LICENSE.txt": "https://iceymann18777.github.io/csb-bctnq/static/js/2.ac5e5b09.chunk.js.LICENSE.txt",
+    "static/media/icon.css": "https://iceymann18777.github.io/csb-bctnq/static/media/remixicon8025.ea0a4a94.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.facbe46c.js",
+    "static/css/2.a2825889.chunk.css",
+    "static/js/2.ac5e5b09.chunk.js",
+    "static/css/main.4c486b0c.chunk.css",
+    "static/js/main.bd962d1c.chunk.js"
+  ]
+}
